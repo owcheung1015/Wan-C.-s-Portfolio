@@ -119,10 +119,10 @@ div#myresume .resume_icon {
     height: 15px;
     margin-right: 10px;}
 
-    div#side_nav a:link, a:visited {
+    div#myresume a:link, a:visited {
         color: #eeeeee;
         text-decoration: none}
     
-    div#side_nav a:hover {
+    div#myresume a:hover {
         color: #393e46;
         text-decoration: none}
