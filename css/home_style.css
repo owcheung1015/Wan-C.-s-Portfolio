@@ -1,0 +1,41 @@
+/* Color Hunt - Color Palette 219713 
+HTML color code #222831 #393e46 #ffd369 #eeeeee */
+
+body {
+    color:#eeeeee;
+    background-color:#222831;
+    background-image: url(../images/photo/tw_taipei101_moonbus.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 50% auto;
+    background-attachment: fixed;
+    border: 0;}
+
+div#myhome {
+    font-family: fashion;
+        src: url(../fonts/fashion.ttf);
+    text-align: center;
+    margin-left: 50%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    transform: translateY(0%);}
+
+div#myhome .icon {
+    width: 25px;
+    height: 25px;}
+
+div#myhome button {
+    background-color: #eeeeee;
+    border: none;
+    border-radius: 12px;
+    font-family: vogue;
+        src: url(../fonts/vogue.ttf);
+    text-align: center;
+    font-size: 15px;
+    padding: 15px 50px;
+    outline: none;
+    width: auto;}
+
+div#myhome button:hover {
+    background-color: #393e46;
+    color: #eeeeee;}

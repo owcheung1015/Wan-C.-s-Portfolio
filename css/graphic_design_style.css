@@ -1,0 +1,69 @@
+/* Color Hunt - Color Palette 219713 
+HTML color code #222831 #393e46 #ffd369 #eeeeee */
+
+body {
+    color:#eeeeee;
+    background-color:#222831;
+    margin: 0;
+    padding: 0;
+    border: 0;}
+
+hr {
+    margin-left: 20%;
+    margin-right: 25px;
+    border-color: #ffd369;
+    border-style: none;
+    border-top-style: dotted; 
+    border-width: 5px;
+    width: 75%;}
+
+/* Navigation Menu */
+div#side_nav {
+    font-family: fashion;
+    src: url(../fonts/fashion.ttf);
+    text-align: center;
+    height: 100%;
+    width: 15%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    position: fixed;
+    transform: translateY(0%);
+    overflow: hidden;}
+
+div#side_nav p {
+    color: #ffd369;}
+
+div#side_nav a:link, a:visited {
+    color: #eeeeee;
+    text-decoration: none}
+
+div#side_nav a:hover {
+    color: #393e46;
+    text-decoration: none}
+
+div#side_nav .nav_icon {
+    width: 20px;
+    height: 20px;}
+
+/* Main */
+div#graphic_design .design {
+    float: left;
+    position: relative;
+    font-family: fashion;
+        src: url(../fonts/fashion.ttf);
+    text-align: left;
+    margin-top: 25px;
+    margin-left: 25%;
+    margin-right: 25px;
+    margin-bottom: 25px;}
+
+div#graphic_design .design_img { 
+    float: left;
+    position: relative;
+    margin-left: 25px;
+    width: 25%;
+    height: 25%;
+    margin-top: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;}
+
